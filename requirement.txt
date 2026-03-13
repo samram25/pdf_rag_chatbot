@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+faiss-cpu
+pypdf
+openai
+streamlit
