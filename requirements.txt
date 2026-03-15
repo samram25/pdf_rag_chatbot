@@ -1,8 +1,5 @@
 streamlit
 langchain
 langchain-community
-langchain-text-splitters
 pypdf
 faiss-cpu
-openai
-senttence-transformers
